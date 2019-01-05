@@ -1,0 +1,10 @@
+C:\Users\Na3er\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Na3er\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\FileRenamerV1.exe.config
+C:\Users\Na3er\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\FileRenamerV1.exe
+C:\Users\Na3er\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\FileRenamerV1.pdb
+C:\Users\Na3er\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\FileRenamerV1.xml
+C:\Users\Na3er\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\FileRenamerv1.Form1.resources
+C:\Users\Na3er\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\FileRenamerv1.Resources.resources
+C:\Users\Na3er\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\FileRenamerV1.exe
+C:\Users\Na3er\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\FileRenamerV1.xml
+C:\Users\Na3er\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\FileRenamerV1.pdb

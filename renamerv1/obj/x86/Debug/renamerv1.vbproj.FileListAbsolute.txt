@@ -1,0 +1,11 @@
+f:\documents\visual studio 2010\Projects\renamerv1\renamerv1\bin\Debug\renamerv1.exe.config
+C:\Users\naser\Documents\Visual Studio 2010\Projects\renamerv1\renamerv1\bin\Debug\renamerv1.exe.config
+C:\Users\naser\Documents\Visual Studio 2010\Projects\renamerv1\renamerv1\bin\Debug\renamerv1.exe
+C:\Users\naser\Documents\Visual Studio 2010\Projects\renamerv1\renamerv1\bin\Debug\renamerv1.pdb
+C:\Users\naser\Documents\Visual Studio 2010\Projects\renamerv1\renamerv1\bin\Debug\renamerv1.xml
+C:\Users\naser\Documents\Visual Studio 2010\Projects\renamerv1\renamerv1\obj\x86\Debug\FileRenamerv1.Form1.resources
+C:\Users\naser\Documents\Visual Studio 2010\Projects\renamerv1\renamerv1\obj\x86\Debug\FileRenamerv1.Resources.resources
+C:\Users\naser\Documents\Visual Studio 2010\Projects\renamerv1\renamerv1\obj\x86\Debug\renamerv1.vbproj.GenerateResource.Cache
+C:\Users\naser\Documents\Visual Studio 2010\Projects\renamerv1\renamerv1\obj\x86\Debug\renamerv1.exe
+C:\Users\naser\Documents\Visual Studio 2010\Projects\renamerv1\renamerv1\obj\x86\Debug\renamerv1.xml
+C:\Users\naser\Documents\Visual Studio 2010\Projects\renamerv1\renamerv1\obj\x86\Debug\renamerv1.pdb
